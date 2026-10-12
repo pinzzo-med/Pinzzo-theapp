@@ -1,0 +1,28 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /auth/otp-verify
+Disallow: /auth/user-profile
+Disallow: /order-processing
+Disallow: /payment-failed
+Disallow: /map-confirmation
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /auth/otp-verify
+Disallow: /auth/user-profile
+Disallow: /order-processing
+Disallow: /payment-failed
+Disallow: /map-confirmation
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /auth/otp-verify
+Disallow: /auth/user-profile
+Disallow: /order-processing
+Disallow: /payment-failed
+Disallow: /map-confirmation
+
+Sitemap: https://plazza.in/sitemap.xml
