@@ -1,0 +1,2659 @@
+am
+ac
+at
+ae
+ad
+aq
+az
+cl
+cr
+ah
+dm
+gl
+al
+ci
+cv
+cg
+em
+et
+aw
+ct
+dy
+ez
+ax
+cn
+af
+an
+ao
+bl
+cp
+do
+dt
+ev
+ak
+ar
+bi
+bp
+cy
+cd
+ge
+is
+bc
+be
+ce
+cs
+du
+er
+ap
+ch
+au
+av
+ba
+cu
+ga
+bt
+bu
+ca
+dc
+de
+es
+dd
+di
+eu
+ta
+ab
+ds
+cm
+co
+df
+en
+la
+aa
+fl
+fu
+eo
+ti
+ec
+el
+hy
+lu
+st
+dp
+fe
+po
+ra
+it
+lz
+dl
+ep
+ex
+he
+eq
+gn
+nu
+aj
+bs
+da
+eh
+gm
+ju
+ln
+md
+cf
+fc
+iv
+si
+zo
+eb
+ei
+gb
+mi
+cc
+eg
+fs
+gc
+mv
+my
+fi
+fo
+gp
+ls
+ze
+dg
+dv
+ek
+ag
+dx
+ea
+gi
+ox
+oz
+pi
+ai
+gt
+hh
+ih
+as
+dn
+lo
+ni
+pg
+gs
+ke
+ri
+br
+cb
+fa
+ir
+li
+mu
+zu
+hd
+ej
+gd
+gg
+iz
+mf
+mo
+ur
+by
+im
+mt
+su
+ck
+ef
+ey
+gr
+ix
+lc
+oc
+od
+ly
+mp
+ol
+zi
+ft
+ib
+oy
+ay
+db
+hu
+ik
+lh
+lv
+mn
+re
+ro
+sa
+sm
+tx
+iu
+kt
+me
+vo
+dr
+gy
+ho
+on
+qu
+sp
+sv
+sy
+va
+fy
+hm
+hr
+ht
+ii
+ko
+lg
+mg
+mr
+mx
+na
+nx
+pl
+se
+ha
+if
+le
+lm
+lx
+ma
+pm
+bb
+gf
+in
+jo
+ne
+or
+sc
+so
+te
+bd
+bg
+fr
+hi
+hs
+iq
+nm
+nn
+ny
+op
+pa
+pu
+go
+hg
+hp
+hw
+kl
+lk
+mc
+nz
+py
+ed
+tr
+za
+5
+hc
+ij
+ja
+lr
+nv
+sg
+ew
+il
+nl
+ty
+xa
+8
+ee
+hn
+iw
+os
+zy
+bm
+bo
+dw
+fx
+gu
+hf
+kn
+mb
+mh
+nh
+np
+rx
+rz
+ul
+wi
+cz
+fg
+hl
+lb
+lw
+mm
+ok
+ph
+tu
+ve
+xy
+1
+fd
+fm
+ld
+ob
+om
+ov
+ud
+kc
+kk
+ml
+pe
+sk
+tg
+vi
+wa
+xm
+fp
+ig
+nt
+pd
+xo
+pr
+rk
+un
+dh
+ku
+ms
+oq
+pb
+pn
+sl
+bf
+hv
+ic
+io
+ki
+km
+lf
+no
+tb
+vy
+we
+2
+3
+fb
+id
+nb
+ps
+sh
+sw
+tn
+ut
+vt
+xi
+ff
+gx
+ip
+kp
+oh
+rh
+rp
+th
+tv
+xg
+4
+hb
+ji
+kf
+lp
+ru
+sb
+sd
+uk
+vg
+vl
+xe
+zc
+zt
+ia
+je
+ka
+kr
+ks
+oj
+tz
+ue
+uv
+ux
+wo
+xf
+bk
+bv
+dz
+hk
+kh
+mw
+pt
+rl
+tm
+ub
+vd
+vs
+wt
+xd
+xs
+6
+kz
+nj
+ot
+pf
+tc
+xt
+yb
+bn
+gw
+lt
+sf
+wc
+wn
+9
+bx
+cq
+jr
+kd
+pc
+rn
+to
+xc
+xr
+ya
+bh
+bz
+dk
+gk
+nk
+oe
+qs
+rd
+uf
+wm
+xv
+dj
+fn
+jp
+kb
+kg
+mk
+nf
+ns
+og
+pp
+sn
+sx
+uh
+uo
+vc
+wb
+wf
+yc
+yf
+yh
+yo
+yz
+zd
+7
+cw
+gv
+oa
+sr
+ts
+vr
+xl
+zs
+fh
+jh
+kw
+nr
+rc
+rg
+ua
+uz
+vf
+ym
+fz
+jg
+ky
+nd
+nw
+of
+oi
+oo
+rf
+rt
+rv
+tl
+tw
+ye
+fk
+rb
+tf
+up
+us
+vm
+wh
+ws
+xp
+xx
+yg
+yn
+yt
+yu
+zg
+gh
+gz
+js
+nc
+rj
+vn
+vp
+vu
+wp
+yk
+yv
+zf
+zl
+zp
+0
+cx
+rq
+ry
+sq
+sz
+wr
+xb
+xj
+yx
+zm
+cj
+gj
+hj
+hz
+iy
+lj
+ll
+ou
+pw
+rw
+td
+tj
+uc
+uj
+uy
+wy
+xh
+xu
+yd
+bj
+bw
+hq
+jt
+jw
+kv
+lq
+mz
+ow
+pz
+qm
+qt
+rr
+sj
+tk
+vb
+wk
+wv
+yl
+yr
+yy
+dq
+fj
+ie
+jj
+jm
+kx
+mj
+pk
+qi
+qp
+ss
+tp
+tt
+ug
+um
+uw
+vh
+wg
+wl
+xk
+xn
+yi
+zh
+zr
+zx
+hx
+jb
+jc
+jn
+mq
+ng
+pv
+qc
+rm
+uu
+vw
+vz
+ww
+wz
+xw
+fv
+fw
+jv
+jy
+qg
+ql
+ui
+uq
+wu
+xz
+yj
+yq
+ys
+zb
+jd
+jk
+kq
+nq
+pj
+px
+qa
+rs
+tq
+vv
+wd
+yw
+zk
+zn
+zq
+fq
+gq
+kj
+qb
+qd
+qn
+vk
+vx
+wj
+wx
+yp
+zv
+zz
+bq
+jf
+jl
+jq
+jx
+jz
+pq
+qe
+qf
+qh
+qj
+qk
+qo
+qq
+qr
+qv
+qw
+qx
+qy
+qz
+vj
+vq
+wq
+xq
+zj
+zw
+bis
+activated dimetihcone-20mg
+ad10
+1450
+amicet
+acetylcysteine-250mg
+300
+ammisol trio
+10% niacinamide
+anadirachta indica-25mg
+apremilast-30mg
+a-mannose
+acetyl glycyl beta-alanine
+acetylcysteine-200mg
+amisulpride
+arvast
+1400
+avil
+2% ketoconazole|shampoo base
+750 mcg)
+</p<paloe barbadensis  10.0%
+ac hair
+ajwain satva  fruit 2.5mg
+astaxanthin-4mg
+'glucosamine'
+'grape seed extract'
+40 mg)
+462
+acebrophylline 50mg
+allantoin 0.2 %
+anovate
+25% dextrose
+abha guggul
+alizarine cyanine green f
+atorva
+'citrus bioflavonoids'
+'vitamin d3'
+'vitamin k2'
+amlodipine 5mg
+atenolol
+azee
+216).
+aculyn 60
+aflab
+ambroxol-60mg
+bimbi  voig t.)
+adaple
+amaryl
+amorolfine
+amoxycillin-1000mg
+aller g
+allylestrenol-5mg
+asert
+astaxanthin-8mg
+azitab
+bipi
+blisto
+'gingko biloba'
+'ginseng'
+1201
+320
+321)
+aarin
+abharak bhasma
+acacia catechu-100 mg
+active
+'lutein']
+'pyridoxal 5 phosphate'
+1% hyaluronic acid solution
+14 mg pyridoxine hci)
+2% pro-ceramide complex (ceramide np
+24k gold|saffron|ashwagandha
+414
+600 iu)
+accu
+accurate pro
+acetyl l carnitine
+acimol
+acmist
+acrod
+af300mg
+alrista
+amitriptyline
+alspar
+ase
+bnj
+'calcium ascorbate'
+'green tea powder'
+'unknown'
+100 stearate
+360°
+acebrophylline
+acetyl-l-carnitine 500 mg
+acetylcysteine-150mg
+aciloc
+adenosine 5 monophosphate-250mg
+aditel
+af400mg
+alpha lipoic acid 100mg
+alsartan
+amlodac
+amtas
+acrotac
+aristo
+atasi
+atorvastatin 20 mg
+atorvastatin-40mg
+atret
+azac
+bet
+betine
+bisoprolol
+)-lactic acid
+. 0.0004% w/v
+10-decanediol
+1521)|sodium starch glycolate
+2- methyl-4-isothiazolin-3-one
+2-amino-2-methyl-1-propanol
+6-palmitoyl-l-ascorbic acid
+ace
+aceclofenac 100mg
+acenac
+adulsa
+adusa
+albendazole 200 mg /5 ml
+alka
+amaltas
+ambroxol-30mg
+amcard
+andrographis paniculato-15mg
+36d
+absorbable gelatin sponge
+arn.)
+azilsartan medoxomil
+bio
+bioline
+'piperine'
+'vitamin b complex'
+1520
+171
+2flora
+aa caps
+aathreya ayurveda
+abutilon indicum
+acegaba
+acivas
+acn
+acyclovir 250 mg
+adhatoda vasica
+adipod
+aerosil 200
+ajwain  100mg
+alanil
+altoran
+ampanel
+apidra
+atrimed
+azelnidipine-16mg
+bblite
+bel
+ben
+bromhexine hydrochloride-2mg
+'lactobacillus'
+'linseed oil'
+'omega-3-fatty acids'
+100% mct
+50% cannabis leaf
+abtika
+acera
+acetik
+acne
+acorus calamus
+adapalene
+adglim
+adrak ras - 0.62ml
+aldry
+allium cepa var. aggregatum  - 0.1%
+alum
+ambroxol 30 mg
+amicin
+amla
+amlopin
+anarsha
+anasure
+antiseptic
+3m
+akik
+amorex
+anu
+arifine
+atlura
+atorvastatin 10mg
+bil
+bipha
+bloating
+bonical
+brite
+bromelain
+bromelain - 0.5%
+'choline'
+'menthol gel']
+100% cotton surface
+100% pure almond oil
+132)
+23 other ayurvedic herbs
+3-o-ethyl ascorbic acid
+422)
+a combination of essential vitamins (a
+abhaya
+ablung
+aceclofenac 1.5 %
+acenocoumarol
+adicort
+adilip
+admenta
+ahanext
+aldigesic max
+alfuzosin
+allstar
+almond
+aloevera
+alpha
+alpha d-tocopherol
+alsita
+ambroxol-15mg
+ambroxol-7.5mg
+amflor
+ammonium chloride
+amoxycillin-500mg
+amrita
+ancool
+apivas
+apotab
+aquamin® marine magnesium citrate
+arbitel-h
+alitel
+atend
+atonide
+atorec
+axtra
+azi
+baga
+bilacip
+bilastine
+biotin 10mcg/5ml
+bluray
+budesonide-1mg
+'cyanocobalamin']
+'mixed carotene'
+(hydrolysed keratin
+1%ha solution
+100% oat oil
+1202. 1203
+3 plant extracts (arbutin
+386)
+4-n-butyl resorcinol
+['glycine'
+abd
+abha guggulu
+abpress
+acacia concinna
+acacia farnesiana flower/​stem extract
+acebrophylline-100mg
+acetylcysteine
+acetylsalicylic acid-75mg
+actihair
+adibact
+adneon
+adva
+aegle marmelos
+aerodil
+af200
+af50
+aginal
+ailvil
+ajamoda
+ajawan ka phool
+ajax
+ajwain
+akik pishti
+albendazole 200 mg per 5ml
+allium cepa
+almond oil 0.5 %
+almox
+aloe
+aloja
+alpha galactosidase 25 mg
+alt
+ambroxol 75mg
+amlolife
+amlovas
+amoxycillin 250mg
+amroid
+anti
+apex
+['d-panthenol'
+aceret
+agaru
+akika churna
+alert
+algest
+ambu
+aripiprazole
+aryglip
+ashoka
+asoria
+aspirin 75 mg
+aspirin-75mg
+astin
+atorsave
+aztrone
+balant
+banafsha  wl. 6.25 mg
+baxim
+belol
+bilashine
+bilast
+biotin-100mg
+blud
+bristaa
+briv
+budesonide-100mcg
+cadilose
+cal
+calci
+calcigen d3
+'wheat germ oil'
+(uvinal
+-alpha tocopher-y/ acetate
+000 iu|excipients q.s.
+1% kojic acid dipalmitate
+1405
+331i)|lemon
+4-dichlorobenzyl alcohol bp
+470)
+5- chloro-2- methyl-4-isothiazolin-3-one
+551
+901
+955 tribulus terrestris extract
+<divhelianthus annuus  seed oil
+['ferrous fumarate'
+abhra  bhasma
+aboros
+acaca cechu-ht wdq 15g each
+acchuka phala
+acetyl l carnitine-500mg
+achyranthes aspera
+acitrom
+acloris
+acne stretch marks
+acne-uv gold
+acotiamide
+acrylamide sodium acrylate copolymer
+actiheal
+acton
+ademetionine
+adgain
+adhesive  on microporous paper
+agmatine sulphate
+aksha
+akt
+alcarex
+alcohol denat
+alfalfa
+alkem
+aloe barbadensis leaf extract 4%w/w
+aloederm
+alopa
+alpha-amylase
+aluminium chlorohydrate
+amalaki
+amantadine
+amlodipine
+amoxicillin
+amrut
+anaero
+anardana - pomegranate seeds
+anfoe
+anjana
+anofer
+apamarg
+10g protein
+acipro
+adel
+alfuzosin-10mg
+amide
+amisant
+amitriptyline 75 mg
+antanil
+arial
+aromance
+artec
+aspira
+atorlip
+atro
+aziderm
+b29
+bacillus clausi
+ban
+bdtab
+bendex
+beta carotene 10 mg
+bimat
+biostar
+biotin-10mg dl-methionine-40mg
+bisoprolol fumarate-2.5mg
+bose
+budesonide-0.5mg
+'minerals'
+100% natural neem wood
+124)
+2-hexanediol  sodium hyaluronate
+4-dichlorobenzyl alcohol 1.2 mg
+absolut
+absorbent
+acacia arabica
+acacia arabica stem bark extract
+acebrit
+aceclo
+acelera
+acer saccharum )
+acetic acid
+acetylcysteine-600mg
+acharya shushrutha
+acinil
+acless
+acnewin
+acscreen
+adesam
+adglimm
+adhesive backing.
+adipride
+advastat
+aerial root)
+aerolife
+aferite
+aflapin
+agmatine 500 mg
+agnimantha
+aim well pharma
+airneb
+ala
+alarsin
+albendazole
+alerid
+alivher
+allantoin
+allantoin 0.4%
+allantoin/d-panthenol
+allegra
+allium sativum
+almond oil
+aloe vera extract
+alsi
+aluminium hydroxide 291 mg
+amalaki (indian gooseberry
+amikacin
+amlaki
+amlong
+amorol
+amoxicillin 500mg
+amra
+anabel
+anagain
+anantamool (hemidesmus indicus
+anchan ayurvedics
+andial
+aneshta
+anosum
+antioxidants (soya lecithin
+appecia
+aqua / water
+ardusa
+arets
+331i)|mango
+a-flu-o-cil forte
+acsan nano
+amace
+amantad
+amitone
+amitop
+amocop
+amorolfine 0.25 %
+amortas
+argyreia speciosa  heartwood
+aricef
+arip
+arjuna|indian bdellium|bala
+ark
+arnica
+arogyavardhini vati
+arom
+arsh
+arsha
+arsol
+ascorbic acid 20 mg
+ashvagandha
+ashwagandhadi
+atecard
+atol
+atorbest
+atorfit
+atorvastatin-20mg
+avn ayurveda
+ayur
+ayurchem
+b complex.
+b.v. pundit's
+babygesic
+barbari |nimba |ushira |jambira |karanja
+base q
+berocin
+betahistine
+betamethasone
+beyond
+bhuimiamalaki
+bilasure
+biopride
+biotique
+blise
+bluvit
+boniheal
+bonmin
+bromelain-180mg
+buspin
+bvert
+c).
+1-3 butylene glycol
+12% n
+3301)
+4-dichlorobenzyl alcohol
+4-distyryl biphenyl derivative).
+555]
+903)
+['diclofenac diethylamine'
+a to z
+aam
+abel
+abhrak bhasam
+ablung n tablet
+absolute alcohol i.p.
+acacia gum
+acebrophylline 100 mg
+acetamide mea
+acetaminophen 1000 mg
+acetic acid-2%w/v
+acetyl cysteine
+acetyl cysteine 600 mg
+acetylated lanolin
+acidact
+acikalp
+activated charcoal
+acyclovir
+addon
+adril
+adult
+advibe
+afi
+aftron
+ageasy
+aghada
+agna
+ailvil healthcare
+aim
+airtec
+ajamoda (trachyspermum ammi
+akair
+akarkara  rt. 0.25% w/v
+akshun
+alafin
+alanton
+alargin forte
+albrim
+aldep
+alex
+alkalized cocoa powder
+allercet
+allneutra
+alma
+almond oil|milk|olive oil|indian aloe
+almond protein
+aloclin
+aloe barbadensis juice
+aloe vera
+aloe vera gel light liquid paraffin
+alum b.p
+alumina
+amio
+amlokind
+amodep
+amoxycillin 125 mg
+amoxycillin 500 mg
+amoxycillin-400mg
+amrit
+amritarishta
+amritha balli
+amtasat
+amwill
+anagen
+anaspas
+ancer
+and eucalyptus
+anjeer
+antoxid
+aoim
+apiban
+apigat
+apixaban
+app
+apresol
+aptamil
+aq.base
+aqua / water / eau
+aragvadha
+arand mool
+aravinda
+arbi: rich source of iron
+aretha
+'peppermint oil'
+1000 mg of shatavari
+20g protein
+37 other herbs
+acelong
+acentio
+aconitum ferox
+acucort
+agnimantha ghana
+alide
+almito
+alterme
+amicon
+amiodarone 150 mg
+amitrip
+amlovin
+antarth
+arnipin
+aroma
+arq-e-ajeeb
+arreno
+artho
+articap
+artificial - chocolate)
+artiflo
+arya vaidya vilasini
+ascorbic acid 250 mg
+ashokarishta
+aspirin-150mg
+assure
+astar
+aswagandha
+atarax
+atornet
+atrest
+aunla  2 mg
+avarta
+avipathi choorna
+avir
+avn ayurveda formulations
+avo
+avolite
+ayulabs
+ayur vibes
+ayurcumin
+ayurvedasramam
+azard
+azelaic acid
+azifast
+b 12)
+b.v.pandit
+b12
+baby
+bactofix
+balamool
+balamoola
+bandy
+banray
+barley
+basil
+bd glide
+beclomethasone
+beclomethasone 0.025 %
+bedda nut
+bee wax
+benfotiamine 7.5 mg
+berry
+betacap
+betacard
+bfill
+bgr
+bidin
+bilajoy
+bilastine 20mg
+bilastine-40mg
+bilav
+biltal
+bilz
+biocof
+bioticslife
+biotin-10mg
+bisacodyl
+blinder
+bold
+boroplus
+braina
+brest
+brihat vata chintamani
+brihati
+brimonidine
+bripca
+bruhath
+bsure
+btex
+budesonide
+budesonide 0.5 mg /2ml
+c30-45 alkyl methicone
+cadmet
+calamine
+calchek
+000 i.u.
+000 iu
+1.3-butylene glycol
+104
+12 vitamins
+2-hexanediol water)
+3 biotin
+3-0 ethyl ascorbic acid
+304
+331 ]
+463
+5 essential electrolytes
+a.pt.) 200 mg
+abhayarishtha
+abhraka bhasma
+abs plastic
+abscisic acid 50 mcg
+absolute alcohol.
+abvida
+acacia catechu
+acacia catechu bark powder
+acacia decurrens flower wax
+acb fruit mix (aqua
+aceclofenac
+aceflam
+acendol
+acetamide
+acetyl dipeptide-1 cetyl ester
+acetylcysteine-50mg
+acidity regulator 330
+acidity regulators (ins330
+acorus calamus root extract
+actilife
+actimol
+adalene
+added flavour
+adhesive fabric/plastic
+adikold
+adoraphil
+advanced
+aeromont
+aerosil
+af150
+afc
+afdura
+afoglip
+agnitundi
+aid
+aimil
+akarkara
+akba  30% from boswellia serrata
+alamin
+alaminm
+alanine
+alcofix
+alcohol  ip: 0.87 ml
+alcohol ip 10% v/v
+algae calcium
+alkaline
+alkepin
+alkof
+alkyl  benzoate
+allantoin. these help moisturize
+allerbio
+allium cepae bulb extract
+allylestrenol
+aloe barbadensis  leaf extract
+aloe barbadensis  leaf juice
+aloe vera gel
+aloe vera|cucumber
+aloe vera|tulsi|
+aloevera juice
+alpha isomethyl ionone
+alpha lipoic acid
+alpha lipoic acid 100 mg
+alpha lipoic acid|folic acid
+alpinia galanga
+alt co.
+altibrain
+amalaki  fruit ext.: 18.75 mg
+amavatari
+ambrolite
+ambroxol
+amino
+amino acids:l-lysine hydrochloride
+amla (emblica officinalis
+amla|gotukola|bhringaraja
+amlika (tamarindus indica lf
+amlip
+amloz
+ammonium lactate
+amorphous silicon dioxide
+amoxicillin-875mg
+amruta
+amruta rathna
+analiv
+anar dana
+anhydrous dextrose
+anise seed
+anticc
+antiflu
+apcod
+apifil
+apple
+approved preservatives used
+aquaporin boosters
+aque
+aravon
+ardraka (zingiber officinale
+argania spinosa kernel oil
+'inositol'
+'vitamin e'
+acemiz
+acetau
+acinol
+acitretin
+aclear
+acogut
+actapro
+acyprove
+adtrol
+adusa leaf
+aesculus hippocastanum  – 167 mg
+aimil amree plus
+akarakara
+akarkara|ashwagandha|bala|nutmeg
+alkamed
+aloha
+alpinia galanga  rhizome
+amalaka
+amigold
+amitax
+amorza
+amrithotharam
+amyron
+ankuf
+antanil gold
+antioxidants and plant extracts
+apibell
+aptayu
+araq
+argan|til oil|coconut oil
+argeva
+aristomol
+aritha  fruit: 32 mg
+arjunarishta
+armod
+arnil
+arnoza
+arya aushadhi
+arya vaidya pharma
+arya vaidya pharmacy
+asana
+asar
+ascorbic acid-65mg
+ashok chaal
+ashotone
+ashtanga ayurveda
+ashwagandaharistha
+aslor
+asoka
+asvatha
+aswal
+aswini
+ate
+atheart
+atlast
+atogla
+atormac
+atorvastatin
+atro kid
+autrin
+avanair
+avanep
+avipathi
+avobenzone
+ayotic
+ayurvedeeya arkashala
+ayurvedic herbal
+ayuvya
+azivent
+azmarda
+azovas
+b-glucan
+babbula kwatha
+babchi
+babool
+bacillus clausii
+bacillus coagulans  probiotic
+bacillus mesentericus 1 million cells
+back
+baclofen
+bael
+bahera chhilka
+bakayan
+bakbone
+banovit
+bastand
+batra
+beauty
+beeja saara
+bees wax white
+bempedoic acid
+benzac
+bepotastine
+ber
+beta carotene 5 mg
+betafree
+betaloc
+betaone
+bevon
+bgr-34
+bhadrika
+bhavana with nimboo swaras
+bhringamalaka
+bifidobacterium
+bilacad
+bilagra
+bilastine 40 mg
+bind
+binder
+biomyf
+bioperine
+bisobis
+bisokem
+bisomax
+bisotab
+blocpro-t
+blynds
+bol parpati
+bola
+bolas
+boldo
+bonefine
+bonmax
+bonton
+boron
+brahmi
+brain development dha
+brassica campestris  - 30 mg
+brent
+bricet
+brihat kantakari
+bringaraja
+bromelain-90mg
+bruhathi
+bsn
+bsy
+budamate-g
+bularid
+bylenta
+cab
+cadbe
+caffeine
+calaid
+calaqua
+calcigen
+calcimax
+(methylisothiazolinone
+-5-methyltetra
+1 count
+1.2 propane diar sorbitol
+10% ethyl ascorbic acid
+100 vitamin b5
+133
+4-n-butylresorcinol
+464
+5 sodium propyl hydroxy benzoate
+95% curcuminoids)
+a-linolenic acid
+ab-flo
+abaxis
+abcap
+abevia
+acarbose
+acb fruit mix
+aceclofenac 100 mg
+aceclofenac-1%w/v
+acecrest
+acenext
+acenomac
+acetyl methionine
+acetyl tyrosine
+acidity regulator
+acidity regulators [ins 330
+acnedap
+acneuv
+acnil
+acnoff
+acrylate crosspolymer
+acrylate polymer
+actinidia chinensis  fruit extract
+acuclav
+acular
+added flavours
+addex
+adhesive bandage (medicated pad
+adhyakalpa
+adliv
+adrak (zingiber officinale
+aerotrop
+afebrex
+afenak
+agivog
+ahaglow
+air
+ajwain (trachyspermum ammi
+ajwain oil  - 5.00 mg
+ajwain satva
+akeek
+alaoxe
+alavit
+alcaft
+alcros
+aldigesic
+alfusin
+algaecal®
+all
+allantion
+allanto
+almond powder
+alnerv
+alocerene
+aloe barbadenis leaf extract
+aloe barbadensis
+aloe butter
+aloe vera gel 10.0% w/v
+aloe vera|basil|turmeric|lemon|cucumber
+aloe vera|bentonite|calamine|kojic acid
+aloevera ext
+alopecia pityrodes ( loss of hair
+alpha arbutin
+alpha ketoanalogue
+alpha lipoic acid 50 mg
+alpina oil
+alprovit
+alsita-em
+althaea officinalis
+aluminium hydroxide
+aluminium magnesium silicate
+alzacox
+amalaki  fr. sugandhavacha  rz.
+amalaki (emblica officinalis fr
+ambcet
+ambroxol hydrochloride
+amdepin
+amino acids
+amino acids (l-glutamine
+aminomethyl propanol
+ammonia
+amodimethicone
+amokav
+amoxicillin-250mg
+amoxycillin-200mg
+ampicillin
+amrita drugs
+amrith
+amroline
+amrutadi guggul
+amruth
+amylmetacresol
+anaboom
+anacyclus pyrethrum
+anafortan
+anantmool
+and haridra
+and natrosol 250h  for lubrication
+and sodium propylparaben
+andonac
+andreva
+androanagen
+andrographis paniculata
+andrographis paniculata leaf extract
+anergen
+ano
+anorelief
+anti-oxidant
+antioxidant
+antioxidants
+apamarg bhasma
+aparajita
+apcor
+apple cider vinegar
+aprezo
+apxenta
+aqua
+aqua ppg-26-buteth-26
+ara
+araamz
+arbitel
+arbule
+arbuth glycerin
+arctostaphylos uva ursi leaf extract
+arg
+'medium chain triglycerides'
+'phenoxyethanol'
+1%procapil
+219)
+500 mg methi
+500 mg ushira
+501 ii)
+[wheat dextrin
+aarya vaidya pharma
+abgel
+abhraka
+abies spectabilis
+ablife
+acamprosate-333mg
+acetyl-keto-beta-boswellic acid
+acidinol
+acido
+acne scars
+acnicin
+acnorm
+acnovin
+acocontin
+acsan
+actibile
+acucal
+acynac
+aimwell
+aja
+ajmoda
+alasi
+alfoo
+alfoot
+almond oil
+olive oil
+coconut oil
+almotan
+aloprot
+alsody
+amlant
+amla|bhringaraja|neem|gulmehndi|shikakai
+amlowin
+amorskin
+amritha
+amrutharishtam
+anjal
+ano metrogyl
+apeg
+apium graveolens
+aplanso
+ardrak swaras
+ardraka
+ardraka (ginger
+ardraka rasa
+argicare
+argin
+argone
+argyreia speciosa
+aricep
+arikuf
+aripiprazole-5mg
+arishtaka
+arjun
+arjun chal
+arjuna
+arnica mont
+arnicor
+arthret
+arzu
+ascorbic acid  40mg
+ascorbic acid 75 mg
+ascoril
+ashoka  - 800 mg
+ashta sudha gandhaka
+ashwagandha  root extract
+ashwagandha taila
+asomex
+astaxanthin
+asthalex
+asthisamharaka
+astocalm plus
+atasi ghan/linum usitatissimum
+atchol
+atenolol 25 mg
+athivisha
+atish
+ativisha
+atm
+atocor
+atoderm
+atomist
+atomoxetine
+atrimied
+augmed
+avacado oil
+avena sativa  kernel o cocos nucifera d
+avent
+avipattikar
+avipattikara
+avomega
+awarene
+axdine
+axegliptin
+axometh
+ayuderm
+ayukalp
+ayur ashrama
+ayurkesh
+ayurveda
+ayurvedic
+ayurvedic botanical extracts
+ayurvedic product
+ayus
+ayush
+ayusiddhi
+azadirachta indica  - 0.1%
+azicin
+aziclear
+azithromycin
+azitus
+b v pandit
+b.v.pundit's
+babbool
+baby powder:
+babymask
+bacillus coagulans 1 billion cfu
+bacillus mesentericus to-a jpc
+baidyanath
+bajaj
+baking soda
+bakula
+bal vedics
+bala
+bala  - plant
+bala moola
+balashwagandha
+balavishnu
+balavishnu thaila
+bambusa arundinacea
+bambusa vulgaris 7.5 mg
+bambuterol
+banana flavour
+bang
+bangshil
+baras karpur
+barleria prionitis
+bcolex
+bearberry ext
+beclometasone
+beetroot
+behada
+beliv
+belsil eg 2 (cyclopentasiloxane
+bempedoic acid-180mg
+benfotiamine
+bengal gram dal
+bengel
+benidin
+benzoic acid
+benzophenone
+benzoxonium 1 mg
+benzyl nicotinate
+beplex
+bestlin
+besvil
+beta carotene & organic ginger extract
+beta-carotene 30 mg
+betabest
+betamil
+betanex
+bexol
+bgcan
+bha
+bhang patta
+bharangi
+bharngi
+bhavana with nimbu swarasa
+bhringarajasava
+bhringaraja|nirgundi|jhendu|lajjalu
+bhringraj
+bhumi
+bhunimba
+bhunimbadi
+bhustruna taila
+bhutrna (cymbopogon citratus-lf.
+bibhitaki
+bibhitaki - terminalia bellirica
+bida lavana
+bifidobacterium bifidum
+bigbro
+bigomet
+bilambic
+bilamed
+bilastine & montelukast
+bilastine 20 mg
+bilastine-10mg
+bilastine-3.3mg
+bilatis
+bilazo
+bilwa (aegle marmelos
+bimatoprost
+bio medilife
+biodegradable softening agents
+biotee
+biotin 40 mcg
+bisocut
+bisoprolol-2.5mg
+bisot
+black pepper
+blend
+bless
+block
+blok
+blue
+bocomo
+bone
+boost
+borage oil
+boron  ‚äì 3 mg
+boswellias|indian winter green
+bpl
+bprotin
+break
+bricarex
+brihat
+brihat vatacintamani rasa
+brihatri
+brillo
+britam
+bro
+bromhexine
+broncof
+bruhat
+budesonide 200mcg
+budesonide-400mcg
+bunase
+butea monosperma 100 mg/10 ml.
+butter
+buttermax
+bylenta h
+c 12-15 alkyl benzoate
+c13-15 alkane
+cadbis
+cadpan
+calaline
+calbrit
+'methyl salicylate'
+-5-methyltetrahydrofolic acid
+000 ppm)
+1% zinc pca
+15% l-ascorbic acid
+172
+2 vitamin c
+2- phenoxyethanol
+2-octyl 1-decanol
+2-oleamido-1
+2m eq potassium lon
+3m eq. of citrate lon)
+433]
+468)
+4uq10
+551) antistcking agents [stearic acid
+553)
+7 meq. potassium lon
+8x
+<br style="font-family: roboto
+aaragwadha
+aaragwadhaarishtam
+aaragwadham
+abday
+abhayadi
+abiways
+abroma augusta
+absenz
+absorbent polymers.
+abzorb
+accuchek
+accunac
+acebrit-mr
+acecloud
+acerich
+achicobal
+achyranthus aspera
+acidity regulator (citric acid
+acidity regulators [ins 331 & ins 332]
+acidwin
+acivir
+acmed
+acnelak
+acnemoist
+acnerex
+acnescar
+acnesol
+acnx
+acpwin
+acrylamide
+acrylates/c 10-30 alkyl acrylate
+acrylates/c10-30
+acrylic polymer polymer
+acsis
+acumoist
+adapnil
+adcapone
+adenosine triphosphate
+adhatoda vasica  a.b.
+adhatoda vasika
+adibose
+adiproz
+adrenaline
+advent
+advog
+aegon
+aerocort
+aflapin |native collagen type ii
+agasthya
+agastya
+agipol 305
+agua
+agumin
+aha
+aim well
+ajaduo
+ajowain
+ajowan ke phool  ~0.10g
+ajwain oil
+akba
+akbanem
+akshiva
+alantoin
+alargin
+alaspan
+albendazole 400 mg
+albizzia lebbeckficus bengalensis
+albumin
+alcomax
+alfacalcidol
+algaecal |curcuma longa
+algal oil
+algesia
+algiace
+alginic acid
+alimenta
+alkems
+all other combinations
+allergen free fragrance
+allnutra
+almokool
+alnesol
+aloe barbadensis leaf juice powder
+aloe barbadensis-lf 150g each
+aloe vera juice
+aloe veraextract
+aloe vera|amla|soya|bhringraj
+aloevera extract
+aloevera gel
+aloevera powder
+aloevera|squalene|tocopheryl|
+alograce
+along with added floral fragrance.
+along with vitamins
+alpha d galactosidase 300 gal u
+alpha glycerylphosphorylcholine
+alpha linolenic acid
+alpha lipoic acid|myo inositol|vitamin d
+alpha-amylase|papain|lactase
+alpha-beta arteether
+alpinia galanga   40 mg
+also used topically in ichthyosis
+altacef
+alteus biogenics pvt. ltd
+althrocin
+altris
+aluminium hydroxide-300mg
+aluminium silicate
+aluminium starch octenylsuccinate
+aluminum silicate
+aluminum starch octenylsuccinate
+amalaki  extract
+ambistryn
+ambrisentan 5 mg
+amifru
+amigaba
+aminexil
+amino acid
+amino acid-based hypoallergenic formula
+amiodarone
+amlogard
+amlycure
+amlycure d.s
+ammonium lactate 12%
+amra bee majja (mangifera indica
+amra bija
+amrata satwa
+amrox
+amucoe
+amycordial
+amyl cinnamal
+amylase|protease|lipase
+an emulsifier ]
+an ingredient of capsule shell
+anacef
+anaflam
+anahim
+analgin
+anawin
+and olea europaea  fruit oil.
+and vitamin e
+andre
+andrographis paniculatus
+angicam
+angiplat
+anhydrous natural caffeine
+anhydroxylitol
+aniseed
+anti aticking agent
+anti-caking agent (silicon dioxide
+anti-foaming agent
+anticaking agent
+anticaking agents (530
+antidep
+antioxidant & trace elements
+antioxidant premix
+antioxidants (soy lecithin
+antioxidants - mixed tocopherols
+antipollon
+anxvit
+apamarga
+apdrops
+apgel
+apifeast
+apixaban 5 mg
+apraize
+apremilast
+aqsusten
+aqua japanese formulation
+aquaderm
+aquadew
+aqualens
+aquamet
+aquasol
+aquim
+arachidonic acid
+arachidonic acid  from m. alpina oil
+arachis  oil
+aragwadha
+arbivit
+arbutin
+arctium lappa root extract
+arflur
+argan stem cells
+'betaine'
+'glycerine'
+'niacinamide'
+-di-hydroxy-vitamin d3)|excipients q.s.
+1 part of each shunthi
+10% pure ethyl ascorbic acid|1% ag
+100% pure epsom salt
+12g protein
+aawala kali
+abhayarishta
+abies webbiana
+acetylcysteine 600 mg
+acharya sushrutha
+acidart
+acidity
+acifresh
+acipox
+acivin
+acnehydra
+actide
+actis
+activa forte
+adraka
+aether
+airmore
+ajamodadi
+ajma
+aldgesic
+alerfix
+all delivered in a base of cocoa powder
+allen
+allerin
+allrite
+almonds - 5.5%
+aloe vera 10 %
+aloe vera leaf juice
+aloevera extract 300 mg
+alopa herbal
+alpha lipoic acid 500mg/sachet
+altiva
+altonil
+amalaki  - emblica officinalis
+amalki
+amantex
+ames
+amino acid based conditioners|
+amlo
+amorfine
+ampoxin
+amra majja
+amrasthi
+amrita / guduchi  st. decoction
+amroderm
+amrut pharma
+amrutha rathna
+amrutottaram
+amylase
+ancare
+anhydrous dextrose 14 gm
+antimony
+apex care
+apple juice reconstituted 10%
+apymoist
+aravindasav
+argan
+argenta
+argiheal
+arginine bicarbonate
+argocalciferol
+arimedadi
+aristozyme
+arjin
+arjuna  bark powder
+ark gulab
+arkamin
+arksp
+arlacel
+armodafinil 50 mg
+arney
+arogyavardhini
+arogyavardhini ras
+arow
+arq
+arrow
+arsenic trisulphide
+arthorem
+arthrum
+articap xt
+artificial
+artificial  flavouring substances)
+artificial flavor
+artocarpus heterophyllus
+asafoetida
+asanadi
+asaneladi
+ascorbic acid 30 mg
+ascorbic acid 50 mg
+ascorbic acid 60 mg
+ascorbic acid-500mg
+ascorbic acid-50mg
+ascorbic acid|folic acid
+ascorbyl methylsilanol pectinate
+ascovent
+ase digest
+ashoka|guduchi|ashwagandha|shatavari
+ashta
+ashtanga ayurvedics
+ashthishrunkala ext
+ashwagandha
+ashwagandha  root – 100 mg
+ashwagandha extract  rt. 133.33mg
+ashwagandharishta
+ashwatha
+asiaticoside
+aspartame
+aspartic acid 29.5 mg
+asphaltum
+aspirin / acetyl salicylic acid
+astaxanthin. contains permitted natural
+asthalin
+asthi shrinkhala
+asthisamhruta
+asthyamrit
+astocalm
+astrigum
+asynac
+atibala
+atis
+ativish
+ativisha  root: 320 mg
+atmagupta
+atmagupta beej
+atograf
+atorfit ez
+atorin
+atorvastatin 10 mg
+atrivit
+aumint
+auragest
+aurum mur. natr.
+avacard
+avapar
+avarthaki
+avas
+avena sativa  kernel extract
+avene
+aver
+avibactam 500mg
+avicus
+avigab
+avocado
+avomine
+avoprost
+axalin
+axcer
+axepta
+axibact
+axunil
+ayucine
+ayural
+ayushree herbals
+azelastine
+azelnidipine
+azenam
+azicip
+azildac
+azilide
+azinax
+azithromycin 100 mg /5 ml
+azithromycin-200mg
+azithromycin-250mg
+azithromycin-500mg
+azoran
+azotas
+aztofa
+aztolet
+aztric
+azulix
+b 18 mg
+b4nappi
+b6)
+babbul
+babhul
+babul
+babyorgano
+bacfen
+bach
+bacillus coagulans
+bacillus coagulans 2 billion cfu
+bacillus mesentericus
+bacillus mesentericus 15 million cells
+bacinox
+baconil
+bacopa monneiri
+bact
+bactogard
+bactosul
+badam / vatadha  d.a.webb)
+badam tel
+badhanjana
+badi ilayachi (amomum subulatum
+baelgiri
+baheda
+baim
+bajra - 2.7%
+bakuchi  sd. 35 mg
+bakwel
+bala (sida retusa
+bala hareetaki
+balagraha
+banana flavours
+banana stem
+bandage
+bandhani
+bang bhasma
+bansa
+banzit
+barleria prionitis  whole plant
+base
+basugine
+bayer
+bdultrafine
+becosip
+becostar
+becosules
+becovic
+bed
+beens
+beeswax
+befit
+befomine
+behentrimonium chloride
+beipos
+belar
+bell pepper
+bella
+bellissa
+bello
+belzole
+bemdac
+beneflex
+benfomet
+bengal gram
+beniflo
+benipres
+benz
+benzer
+benzocaine
+benzoyl peroxide
+benzoyl peroxide  | clindamycin
+benzyl alcohol
+bepanthen
+beplex forte mono
+bepofree
+berry extracts
+berrycran
+bestogesic
+beta
+beta caryophyllene 15%) ‚äì 100 mg
+beta glucan
+betacarotene
+betadine
+betagel
+betahistine-24mg
+betakind
+betgenta
+bethanechol
+betoact
+betonin
+bharath herbal & pharma
+bhringaraj
+bhringaraj extract
+bhringaraja  leaves
+bhrungaraja
+bht. técopheryl acetate
+bhui amla
+bhuiamla (phyllanthus amarus
+bhumyamalaki
+bhutruna tailam
+bibhaitaka
+bifidobacterium longum
+bifolate
+bigfun
+biggaba
+bila
+bilafav
+bilanix
+bilazest
+biluma
+bilva
+bilwa
+binding agents (1208
+bio-d3 joints
+bio-optimized palmitoylethanolamide
+bioactive collagen peptides
+bioactive multivitamin
+biochemdryl
+bioclar
+biofer
+biomarine collagen
+biopreg
+biosilk
+biotin
+biotin  30mcg
+biotin  – 10000 mcg per tablet
+biotin 150 mcg
+biotin 8 mcg
+biotin-10000mcg
+biotin|vitamins
+biphasic insulin aspart 50 %
+biranjasipha
+biranjasipha  a.p.
+bisabool
+bishop's weed
+bisoduce
+bisojoy
+bisolong
+bisoprolol 2.5 mg
+bitter melon
+bizfer
+black carrot
+black cumin
+black elderberry
+bleach
+blended with natural chamomile
+blonitas
+blood formation
+blueshield® (glycerin
+bluglip
+blumox
+bodh pharma
+bodywash
+boerhaavia diffusa
+bolbaddha
+bold care vibe
+bombax malabaricum
+bon
+boostrix
+boosts immunity
+borage seed oil 10 mg
+boro
+boswellia extract
+boswellia serrata  extract
+bpcrush
+brahmi oil
+brakke
+brassica juncea
+bresol
+brhati
+brightenyl (water
+brihat marichyadi taila
+brij 72
+brilante
+brilinta
+brilliant blue
+brilliant blue colour
+brimocom
+brinzox
+british
+britvit
+brivahenz
+brivex
+brivgard
+briyo
+broclear
+bromfenac
+bromhexine-4mg
+bronchomed
+bronkasma
+bronopol
+brophyle
+brufen
+brular
+budamate
+budate
+budelite
+budesal
+budesonide 200 mcg
+buffered aqueous base with glycerin q.s
+bunga
+bupron
+buta
+butamirate-7.5mg
+butane
+butterfly pea flowers
+butylated
+butylated hydro indures
+butylated hydroxytoluene
+butylmethoxy dibenzoyl methane
+byrx
+c 12-16 alcohols
+c10-18 triglycerides
+c10-30 cholesterol
+c12-14 sec-pareth-7
+c12-16 alcohols
+c14-22 alcohols
+c20-40 alkyl stearate
+c9-11 pareth-6
+caat
+cadexomer iodine
+caffeine anhydrous
+caffeine|anagain|procapil
+cafneon
+cafune
+cajuput tail  - 7%
+calak
+calamine 8 %
+calanim
+calblend
+calcigard
+calcinol
+calciost
