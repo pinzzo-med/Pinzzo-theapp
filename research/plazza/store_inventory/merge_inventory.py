@@ -165,8 +165,8 @@ for pid in allpids:
 mrows.sort(key=lambda r: (-r[12], r[1] or ''))
 sheet('Stock matrix', heads, mrows, {'Name': 42, 'Salt': 32, 'Manufacturer': 24, 'Pack': 22})
 
-top = [r for r in mrows if r[11] >= 1][:1000]
-sheet('Deepest stock (top 1000)', heads[:13], [r[:13] for r in top], {'Name': 42, 'Salt': 32, 'Manufacturer': 24, 'Pack': 22})
+top = [r for r in mrows if r[11] >= 1]  # every product in stock somewhere, most units first
+sheet('In stock, ranked', heads[:13], [r[:13] for r in top], {'Name': 42, 'Salt': 32, 'Manufacturer': 24, 'Pack': 22})
 
 pv = [r[:11] + [round((r[10] - r[9]) / r[10] * 100, 1)] for r in mrows
       if r[9] is not None and r[10] is not None and r[10] > r[9] and r[10] > 0]
